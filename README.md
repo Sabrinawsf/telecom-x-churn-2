@@ -53,12 +53,14 @@ A análise indicou que algumas variáveis possuem maior influência na evasão d
 ## Estrutura do projeto
 telecom-x-churn-2/
 │
-├── data/
-│ └── telecom_churn_tratado.csv
+├── Dados/
+│ └── telecom_churn_tratado.csv # Arquivo com os dados tratados utilizados na análise
 │
-├── notebook/
+├── telecom_x_churn_2.ipynb # Notebook com análise, modelagem e resultados
 │
-└── README.md
+├── .gitignore # Arquivos e pastas ignorados pelo Git
+│
+└── README.md # Documentação do projeto
 
 
 ## Conclusão
